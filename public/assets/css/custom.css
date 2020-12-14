@@ -1,0 +1,15 @@
+body,html{
+    overflow-x: hidden;
+}
+footer{
+    background-color: #012d44;
+
+    font-size: 1em;
+}
+.nav-custom{
+    background-color: #012d44 !important;
+}
+.smile{
+    color: #ffffff;
+    font-size:1.1em
+}
